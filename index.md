@@ -8,12 +8,12 @@ title: Home
 
 **Team 2**
 
-_Sanchit Singhal_
-_Kevin Julius_ 
-_Romney Kellogg_
-_Siddhaarthan Akila Dhakshinamoorthy_
+*_Sanchit Singhal_
+*_Kevin Julius_ 
+*_Romney Kellogg_
+*_Siddhaarthan Akila Dhakshinamoorthy_
 
-**_Bold and Italic Text_**
+
 
 ## Research Question
 
