@@ -12,9 +12,9 @@ _Italic Text_
 
 ## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+* How can degradable/disposable materials be used to create an aquatic dynamic
+foldable robot?
+
 
 ## Background
 
