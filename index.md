@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Foldable Robots Project
 ---
 
 # Home
