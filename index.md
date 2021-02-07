@@ -9,10 +9,9 @@ title: Foldable Robots Project
 **Team 2**
 
 * Sanchit Singhal _sanchitsinghal@asu.edu_
-* _Kevin Julius_ 
-* _Romney Kellogg_
-* _Siddhaarthan Akila Dhakshinamoorthy_
-
+* Kevin Julius _kmjulius@asu.edu_
+* Romney Kellogg _rakello1@asu.edu_
+* Siddhaarthan Akila Dhakshinamoorthy _sakiladh@asu.edu_
 
 
 ## Research Question
@@ -23,9 +22,9 @@ foldable robot?
 
 ## Background
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+#![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-[link to background](/background)
+#[link to background](/background)
 
 ## Results
 
