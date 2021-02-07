@@ -19,13 +19,6 @@ title: Foldable Robots Project
 * How can degradable/disposable materials be used to create an aquatic dynamic
 foldable robot?
 
-
-## Background
-
-[//]: <> ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[//]: <> [link to background](/background)
-
 ## Results
 
 1. Numbered Point 1
