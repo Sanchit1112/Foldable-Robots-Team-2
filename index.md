@@ -11,14 +11,10 @@ title: Foldable Robots Project
 |    Name                                 |    Email    |
 | -----------                             | ----------- |
 | Sanchit Singhal                         | _sanchitsinghal@asu.edu_      |
-| Kevin Julius | Text                     |_kmjulius@asu.edu_ |
-| Romney Kellogg| Title                   |_rakello1@asu.edu_ |
+| Kevin Julius                     |_kmjulius@asu.edu_ |
+| Romney Kellogg                  |_rakello1@asu.edu_ |
 | Siddhaarthan Akila Dhakshinamoorthy     | _sakiladh@asu.edu_  |
 
-* Sanchit Singhal _sanchitsinghal@asu.edu_
-* Kevin Julius _kmjulius@asu.edu_
-* Romney Kellogg _rakello1@asu.edu_
-* Siddhaarthan Akila Dhakshinamoorthy _sakiladh@asu.edu_
 
 
 ## Research Question
