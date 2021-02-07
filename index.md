@@ -8,7 +8,7 @@ title: Foldable Robots Project
 
 **Team 2**
 
-* _Sanchit Singhal_ _sanchitsinghal@asu.edu_
+* *_Sanchit Singhal_* _sanchitsinghal@asu.edu_
 * _Kevin Julius_ 
 * _Romney Kellogg_
 * _Siddhaarthan Akila Dhakshinamoorthy_
