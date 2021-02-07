@@ -2,7 +2,7 @@
 title: Foldable Robots Project
 ---
 
-# Snake-like bio-inspired degradable Robot
+# Project Title: Snake-like bio-inspired degradable Robot
 
 ## Introduction
 
@@ -22,9 +22,9 @@ foldable robot?
 
 ## Background
 
-#![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+[//]: ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-#[link to background](/background)
+[//]:[link to background](/background)
 
 ## Results
 
