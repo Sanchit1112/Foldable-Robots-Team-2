@@ -8,6 +8,11 @@ title: Foldable Robots Project
 
 **Team 2**
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 * Sanchit Singhal _sanchitsinghal@asu.edu_
 * Kevin Julius _kmjulius@asu.edu_
 * Romney Kellogg _rakello1@asu.edu_
