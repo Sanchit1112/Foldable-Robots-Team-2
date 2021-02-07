@@ -2,13 +2,13 @@
 title: Foldable Robots Project
 ---
 
-# Home
+# Snake-like bio-inspired degradable Robot
 
 ## Introduction
 
 **Team 2**
 
-* _Sanchit Singhal_
+* _Sanchit Singhal_ _sanchitsinghal@asu.edu_
 * _Kevin Julius_ 
 * _Romney Kellogg_
 * _Siddhaarthan Akila Dhakshinamoorthy_
