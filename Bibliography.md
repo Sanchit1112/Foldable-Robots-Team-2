@@ -2,6 +2,8 @@
 title: Bibliography
 ---
 
+
+## Bibliography
 1. H. Marvi, J. Bridges, and D. L. Hu, “Snakes Mimic Earthworms: propulsion using rectilinear travelling waves,” The Royal Society, vol. 10, no. 84, Jul. 2013. 
 1. B. C. Jayne, “Kinematics of Terrestrial Snake Locomotion,” JSTOR, vol. 1986, no. 4, pp. 915–927, Dec. 1986. 
 1. L. Paez, M. Granados and K. Melo, "Conceptual design of a modular snake origami robot," 2013 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), Linkoping, pp. 1-2, 2013.
