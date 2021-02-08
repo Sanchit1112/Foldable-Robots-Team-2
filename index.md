@@ -17,7 +17,7 @@ title: Foldable Robots Project
 
 ## Research Question
 
-* How can degradable/disposable materials be used to create an aquatic dynamic
+* How can degradable/disposable materials be used to create a snake-like bio-inspired
 foldable robot?
 
 
