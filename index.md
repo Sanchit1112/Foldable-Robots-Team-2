@@ -2,7 +2,7 @@
 title: Foldable Robots Project
 ---
 
-# Project Title: Snake-like bio-inspired degradable Robot
+# Project Title: Snake like bio-inspired degradable Robot
 
 **Team 2**
 
@@ -17,7 +17,7 @@ title: Foldable Robots Project
 
 ## Research Question
 
-* How can degradable/disposable materials be used to create a snake-like bio-inspired
+* How can degradable/disposable materials be used to create a snake like bio-inspired
 foldable robot?
 
 
