@@ -20,10 +20,19 @@ title: Foldable Robots Project
 * How can a snake-inspired biodegradable robot be created using foldable robotics principles?
 
 
+## Biomechanics
+
+## Kinematics
+
+## Dynamics I
+
+## Presentation I
+
 ## Previous Assignments
 
 * [Develop a Research Question](https://docs.google.com/document/d/e/2PACX-1vSvr0n6AAtXMiBDpmCcCy6OM6qAWue8eGvRlnsKKsEwtprj_xDe92PTkrktGqrf_iHYFvryi73ai7G_/pub)
 * [Biomechanics Background and Initial Specifications](https://docs.google.com/document/d/e/2PACX-1vRhKLkh7DTk03cDLr3Kia3QQ_Kr8tN0NAaVGb1xMGU1-ZQ-O2FmmTLIB0pFt905vAHSfilRCoa1Jt5o/pub)
+
 
 
 ## Bibliography
