@@ -21,15 +21,22 @@ title: Foldable Robots Project
 
 
 ## Biomechanics
+|  Parameter   |   Unit   | Value Range |
+| -----------  | ---------| ------------|
+|Total Mass    | kg         | .6±.1            |
+|Length          |m          | .3-.9            |
+|Average Speed              |ft/s|  0.33-0.197           |
+| Forward sliding friction coefficient             | unitless         | .3±.06       |
+| Backward Sliding friction coefficient            |unitless          |  .42±.05      |
+|  Cost of Working (partial energy cost of movement)            |    J/(kg*m)   |  .5-1           |
+|Ground Friction Reaction Force|N | 2.4±.05|
 
 ## Kinematics
 
 * 2-D model using two 2-bar linkages (AB and ED) with a constant distance at endpoint. Creating 1 independent state qAi and 3 dependant states qBd, qDd, qEd.
-* Constraints were added to make the two vertical links parallel and pFE and pDC have the same y component. These simulate the constraints a 3-D representation of a saurus linkage would hold.
-* Using this model the internal and external Jacobians were calculated to map output velocities and forces to input angular velocities and torques to qAi.
 * The force at the end effector was estimated using recorded mass and acceleration to estimate ground reaction forces.
 * This was then used with the external Jacobian to calculate the required input torque of 0.31 N*m
-* These kinematics are to be revised with the new design of the robot, but similar methods will be used to create the updated model.
+
 
 
 ## Dynamics I
