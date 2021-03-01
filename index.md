@@ -22,7 +22,7 @@ title: Foldable Robots Project
 
 ## Biomechanics
 
-[s](/Onde_compression_impulsion_1d_30_petit.gif)
+![image caption](/Onde_compression_impulsion_1d_30_petit.gif)
 
 
 
