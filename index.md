@@ -17,8 +17,7 @@ title: Foldable Robots Project
 
 ## Research Question
 
-* How can degradable/disposable materials be used to create a snake like bio-inspired
-foldable robot?
+* How can a snake-inspired biodegradable robot be created using foldable robotics principles?
 
 
 ## Previous Assignments
