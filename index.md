@@ -20,9 +20,9 @@ title: Foldable Robots Project
 
 * [Biomechanics Background and Initial Specifications](/Biomechanics Background and Initial Specifications.pdf)
 
-* [Kinematics](/System_Kinematics.pdf)
+* [System Kinematics](/System_Kinematics.pdf)
 
-* [Dynamics I](/System_Dynamics.pdf)
+* [System Dynamics](/System_Dynamics.pdf)
 
 * Presentation I
   * [Powerpoint presentaion](/Foldable Robotics Presentation I V2.pdf)
