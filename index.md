@@ -25,5 +25,6 @@ title: Foldable Robots Project
 * [Dynamics I](/System_Dynamics.pdf)
 
 * [Presentation I](https://www.youtube.com/watch?v=gsyXnS8U5l4&feature=youtu.be&ab_channel=RomneyKelloggASU)
-
+  * PPT
+  * Youtube
 * [Bibliography](/Bibliography.md)
