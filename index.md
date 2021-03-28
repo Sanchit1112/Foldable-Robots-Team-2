@@ -22,7 +22,7 @@ title: Foldable Robots Project
 
 * [System Kinematics](/SystemKinematics.md)
 
-* [System Dynamics](/System_Dynamics.pdf)
+* [System Dynamics](/SystemDynamics.md)
 
 * [Presentation I](/presentation1.md)
 
