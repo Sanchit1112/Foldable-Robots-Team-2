@@ -7,21 +7,20 @@
 
 ### Dimensioned Figure:
 
-![dimensioned_kine.png](attachment:dimensioned_kine.png)
-
+![dimensioned_kine.png](dimensioned_kine.png)
 
 ### Kinematic Figure:
 
-![kine_figure.PNG](attachment:kine_figure.PNG)
+![kine_figure.PNG](kine_figure.PNG)
 
 #### Above the kinematic modeling was performed by seperating the sarrus linkage into 2 2-bar linkages (AB and ED) with a constant distance lc between their endpoints (pBC and pDC).
 
 ## 2. Prototype Device:
 
-![prototype.jpg](attachment:prototype.jpg)
+![prototype.jpg](prototype.jpg)
 
 
-![prototype2.jpg](attachment:prototype2.jpg)
+![prototype2.jpg](prototype2.jpg)
 
 ## 3. Kinematic Model Code:
 
