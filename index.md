@@ -24,8 +24,8 @@ title: Foldable Robots Project
 
 * [System Dynamics](/System_Dynamics.pdf)
 
-* Presentation I
-  * [Powerpoint presentaion](/Foldable Robotics Presentation I V2.pdf)
-  * [Youtube link](https://www.youtube.com/watch?v=gsyXnS8U5l4&feature=youtu.be&ab_channel=RomneyKelloggASU)
+* [Presentation I](/presentation1.md)
+
+* [Presentation II](/presentation2.md) 
   
 * [Bibliography](/Bibliography.md)
