@@ -1,4 +1,4 @@
-# System Dynamics
+# System Dynamics II
 ## Team 2
 ## Kevin Julius, Romney Kellogg, Sanchit Singhal, Siddhaarthan Akila Dhakshinamoorthy
 
