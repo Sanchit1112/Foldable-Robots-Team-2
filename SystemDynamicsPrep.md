@@ -377,6 +377,18 @@ $\displaystyle 6.05859375$
 ```python
 
 ```
+## Cantilever Beams Material Experiment
+
+![Beams1](SystemDynamicsPrep_files/Beams1.PNG)
+
+![Beams2](SystemDynamicsPrep_files/Beams2.PNG)
+
+![Beams3](SystemDynamicsPrep_files/Beams3.PNG)
+
+![Beams4](SystemDynamicsPrep_files/Beams4.PNG)
+
+![Beams5](SystemDynamicsPrep_files/Beams5.PNG)
+
 ## Solidworks Bending FEA
 
 ![FEA1](SystemDynamicsPrep_files/FEA1.PNG)
