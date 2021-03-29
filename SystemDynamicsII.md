@@ -847,13 +847,8 @@ points_output.animate(fps = fps,movie_name = 'render.mp4',lw=2,marker='o',color=
 HTML(points_output.anim.to_html5_video())
 ```
 
-![render2](SystemDynamicsII_files/render.gif)
+![render2](SystemDynamicsII_files/render2.gif)
 
-
-
-
-
-    
 ![png](SystemDynamicsII_files/SystemDynamicsII_87_1.png)
     
 
