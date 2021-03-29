@@ -7,14 +7,14 @@
 
 ### Dimensioned Figure:
 
-![dimensioned_kine.png](attachment:dimensioned_kine.png)
+![dimensioned_kine.png](dimensioned_kine.png)
 
 
 ### Dynamics Figure:
 
 
 
-![dynamics_figure.PNG](attachment:dynamics_figure.PNG)
+![dynamics_figure.PNG](dynamics_figure.PNG)
 
 #### Above the kinematic modeling was performed by seperating the sarrus linkage into 2 2-bar linkages (AB and ED) with a constant distance lc between their endpoints (pBC and pDC).
 
@@ -734,7 +734,7 @@ LjEwMA==
 
 ### Below is the animation and final stable position of the mechanism
 
-![dynamicsanimation.gif](attachment:dynamicsanimation.gif)
+![dynamicsanimation.gif](dynamicsanimation.gif)
 
 ![image3.png](attachment:image3.png)
 
