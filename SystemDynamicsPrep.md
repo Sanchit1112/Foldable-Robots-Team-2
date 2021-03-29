@@ -399,6 +399,15 @@ $\displaystyle 6.05859375$
 
 ![FEA4](SystemDynamicsPrep_files/FEA4.PNG)
 
+## Joint Damping Data Collection
+
+![Damp1](SystemDynamicsPrep_files/Damp1.PNG)
+
+![Damp2](SystemDynamicsPrep_files/Damp2.PNG)
+
+![Damp3](SystemDynamicsPrep_files/Damp3.PNG)
+
+
 ## Joint Damping Calculations
 
 ```python
