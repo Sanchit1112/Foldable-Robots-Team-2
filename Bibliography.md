@@ -15,3 +15,7 @@ title: Bibliography
 1. C. D. Onal, R. J. Wood and D. Rus, "An Origami-Inspired Approach to Worm Robots," in IEEE/ASME Transactions on Mechatronics, vol. 18, no. 2, pp. 430-438, April 2013, doi: 10.1109/TMECH.2012.2210239.
 1. H. W. LISSMANN, Rectilinear Locomotion in a Snake (Boa Occidentalis) Journal of Experimental Biology. 1950, 26, Pages 368-379
 “Celebrating Wildlife and Wild Places,” Welcome to the Racine Zoo. [Online]. Available: https://www.racinezoo.org/western-hognose-fact-sheet. [Accessed: 08-Feb-2021]. 
+1. D.Aukes, “Approximating compliant beams with the pseudo-rigid-body model,”egr557. Accessed: March. 19, 2021 [Online]. Available: https://egr557.github.io/modules/compliance/generated/prbm.html
+1. D.Aukes, “Cantilever Beams,”egr557. Accessed: March. 19, 2021 [Online]. Available: https://egr557.github.io/modules/compliance/cantilever-beams.html 
+1. D.Aukes, “Euler-Bernoulli Beams,”egr557. Accessed: March. 19, 2021 [Online]. Available: https://egr557.github.io/modules/compliance/generated/euler-bernoulli-beams/euler-bernoulli-beams.html 
+1. “Servo Motor SG-90 Basics, Pinout, Wire Description, Datasheet,” Components101. [Online]. Available: https://components101.com/motors/servo-motor-basics-pinout-datasheet. [Accessed: 20-Mar-2021]. 
