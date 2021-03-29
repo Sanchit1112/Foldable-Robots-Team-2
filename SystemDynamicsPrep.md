@@ -118,3 +118,10 @@ Average Coefficient of Static Friction : 0.3057
 
 Approximation : The coefficient of kinetic friction could be determined during the same Angle of Repose experiment where the angle corresponding to when the cardstock slips down the inclined surface at constant velocity is noted. An angle of ~17 degrees let the cardstock slip down in an approximately constant velocity. Thus coefficient of kinetic friction = tan (17) = 0.3057
 
+![FEA1](SystemDynamicsPrep_files\FEA1.png)
+
+![FEA2](SystemDynamicsPrep_files\FEA2.png)
+
+![FEA3](SystemDynamicsPrep_files\FEA3.png)
+
+![FEA4](SystemDynamicsPrep_files\FEA4.png)
