@@ -243,4 +243,3 @@ of Experimental Biology. 1950, 26, Pages 368-379
 11\. “Celebrating Wildlife and Wild Places,” Welcome to the Racine Zoo. [Online].
 Available: https://www.racinezoo.org/western-hognose-fact-sheet. [Accessed:
 08-Feb-2021].
-12\.
