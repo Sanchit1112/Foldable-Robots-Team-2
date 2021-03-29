@@ -135,25 +135,25 @@ Thrust energy:
 
 ### Figures from Literature:
 
-![Pic1](ResearchQuestions_Pictures/Pic1)
+![Pic1](ResearchQuestions_Pictures/Pic1.JPG)
 
 Figure 1. Skeleton of a snake compared to the skeleton of a mouse [4]
 
-![Pic2](ResearchQuestions_Pictures/Pic2)
+![Pic2](ResearchQuestions_Pictures/Pic2.JPG)
 
 Figure 2. Body kinematics of a snake [1]
 
-![Pic3](ResearchQuestions_Pictures/Pic3)
+![Pic3](ResearchQuestions_Pictures/Pic3.JPG)
 
 Figure 3. Model of unidirectional contraction and extension of a snake, showing patterns of muscle strain at varying heights [1]
 
-![Pic4](ResearchQuestions_Pictures/Pic4)
+![Pic4](ResearchQuestions_Pictures/Pic4.JPG)
 
 Figure 4. Mathematical model of rectilinear locomotion [1]
 
 ### Simple Engineering Representation of Proposed Mechanical System:
 
-![SimpleEngPic](ResearchQuestions_Pictures/SimpleEngPic)
+![SimpleEngPic](ResearchQuestions_Pictures/SimpleEngPic.JPG)
 
 Figure 5. Simple engineering mechanical representation of proposed system
 
