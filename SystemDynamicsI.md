@@ -726,17 +726,17 @@ LjEwMA==
 ### Plot of state variables, since the sarrus linkage is symetrical three variable lines are layered on top of eachother.
 
 
-![image1.png](attachment:image1.png)
+![image1.png](image1.png)
 
 ### Below is the motion plot of the mechanism 
 
-![image2.png](attachment:image2.png)
+![image2.png](image2.png)
 
 ### Below is the animation and final stable position of the mechanism
 
 ![dynamicsanimation.gif](dynamicsanimation.gif)
 
-![image3.png](attachment:image3.png)
+![image3.png](image3.png)
 
 
 ```python
