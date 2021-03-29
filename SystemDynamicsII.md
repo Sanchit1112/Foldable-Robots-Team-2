@@ -7,17 +7,17 @@
 
 ### 1.1 Dimensioned Figure:
 Below is a dimensioned figure of the solidworks model of the robot.
-![solidworkdraw1](attachment:solidworkdraw1)
+![solidworkdraw1](SystemDynamicsII_files/solidworkdraw1)
 
-![solidworkdraw2](attachment:solidworkdraw2)
+![solidworkdraw2](SystemDynamicsII_files/:solidworkdraw2)
 
 ### 1.2 Dynamics Figure:
 Below are 2 figures. The first of which is a detailed diagram of the dynamics of the system, the second of which is a simplified diagram showing what aspects of the dynamics were modeled. 
 
-![DynamicsIIFig1.PNG](attachment:DynamicsIIFig1.PNG)
+![DynamicsIIFig1.PNG](SystemDynamicsII_files/DynamicsIIFig1.PNG)
 
 
-![DynamicsIIFig2Simple.PNG](attachment:DynamicsIIFig2Simple.PNG)
+![DynamicsIIFig2Simple.PNG](SystemDynamicsII_files/DynamicsIIFig2Simple.PNG)
 
 
 ```python
