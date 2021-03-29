@@ -18,7 +18,7 @@ title: Foldable Robots Project
 
 * [Develop A Research Question](/Develop_A_Research_Question_Team_2.md)
 
-* [Biomechanics Background and Initial Specifications](/Biomechanics Background and Initial Specifications.pdf)
+* [Biomechanics Background and Initial Specifications](/Biomechanics_Background_and_Initial_Specifications.md)
 
 * [System Kinematics](/SystemKinematics.md)
 
