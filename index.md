@@ -24,8 +24,26 @@ title: Foldable Robots Project
 
 * [System Dynamics](/SystemDynamics.md)
 
+* [System Optimization](/SystemOptimization.md)
+
+* [Manufacturing Planning](/ManufacturingPlanning.md)
+
+* [Experimental Validation](/ExperimentalValidation.md)
+
 * [Presentation I](/presentation1.md)
 
 * [Presentation II](/presentation2.md) 
+
+* [Presentation III](/presentation3.md) 
   
 * [Bibliography](/Bibliography.md)
+
+# Additional Pages: 
+
+* [Data](/Data.md)
+
+* [Video/Image Gallery](/Gallery.md)
+
+* [CAD and Other Design Files](/CAD.md)
+
+* [Additional Code](/AddCode.md)
