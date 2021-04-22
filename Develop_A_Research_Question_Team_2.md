@@ -157,3 +157,5 @@ robotics, vol. Vol.7 (2), 2015.
 Foldable Miniature Robot Dynamics. J Intell Robot Syst 100, 15–28 (2020).
 5. “MeetFred,”ClearBlueSea. [Online]. Available:
 https://www.clearbluesea.org/meet-fred/. [Accessed: 01-Feb-2021].
+
+Up-to-date as of 4/22/21
