@@ -3,19 +3,19 @@
 ## Kevin Julius, Romney Kellogg, Sanchit Singhal, Siddhaarthan Akila Dhakshinamoorthy
 
 ## 1. Simulation Optimization Results:
-![backupavgvgraph.png](attachment:backupavgvgraph.png)
+![backupavgvgraph.png](pic_1.png)
 
-![backupmaxvgraph.png](attachment:backupmaxvgraph.png)
+![backupmaxvgraph.png](pic_2.png)
 
     Above are the simulation results for the experiment these led to a 1.5mm thickness selection and a 60x60mm square side length selection. (More depth is gone into on this process in the design optimization document). The experimental robot was constructed based on these results.
 
  Below is a plot of the displacement of the measured point on the system (in m) vs. time (in s) using the optimal results obtained above. This plot will be used to compare the displacements of the simulation and actual system.
 
-![simulation_position.png](attachment:simulation_position.png)
+![simulation_position.png](pic_3.png)
 
  Below is a plot of the velocity of the measured point on the system (in m/s) vs. time (in s) using the optimal results obtained above. This plot will be used to compare the velocities of the simulation and actual system.
 
-![simulation_velocity.png](attachment:simulation_velocity.png)
+![simulation_velocity.png](pic_4.png)
 
 The maximum velocity was calculated to be 0.2527 and the average velocity was calculated to be 0.03938 from the performance function in the design optimization jupyter notebook.
 
@@ -33,11 +33,11 @@ The maximum velocity was calculated to be 0.2527 and the average velocity was ca
     7. Code finishes executing and stop recording.
     8. Upload video to tracker and gather data points using tracking points.
 
-![Drawing_1.jpg](attachment:Drawing_1.jpg)
+![Drawing_1.jpg](pic_5.jpg)
 
-![Drawing_2.jpg](attachment:Drawing_2.jpg)
+![Drawing_2.jpg](pic_6.jpg)
 
-![tracker_image.png](attachment:tracker_image.png)
+![tracker_image.png](pic_7.png)
 
 ## 3. Experimental Results:
 
@@ -150,18 +150,18 @@ print(v_average)
 
 Simulation y axis Position (m) and x axis Time(s)
 
-![simulation_position.png](attachment:simulation_position.png)
+![simulation_position.png](pic_8.png)
 
 Experiment Position vs Time graph
-![experimental_position.png](attachment:experimental_position.png)
+![experimental_position.png](pic_9.png)
 
 Simulation y axis Velocity (m/s) and x axis Time(s)
 
-![simulation_velocity.png](attachment:simulation_velocity.png)
+![simulation_velocity.png](pic_10.png)
 
 Experiment Velocity vs. Time graph
 
-![experimental_velocity.png](attachment:experimental_velocity.png)
+![experimental_velocity.png](pic_11.png)
 
     It seems that the key differences in these graphs are that in the simulation the robot was able to employ stoppers so it moved from its starting location as seen in the simulation position vs time graph and its missing from the experimental version. Another big difference can be seen in the duration of the acuation of the system. The real life experiment seems to actuate much faster than the simulation. This will be discussed further in the discussion. 
 
