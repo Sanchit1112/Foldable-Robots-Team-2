@@ -911,7 +911,7 @@ plt.title('Square Width and Thickness vs. Average Velocity')
 plt.xticks([0.05, .055, .06, .065, .07])
 plt.ylim([0, .075])
 ```
-
+![png](backupavgvgraph.png)
 
 ```python
 plt.plot(width_v,maxv_mat[0,:])
@@ -931,7 +931,7 @@ plt.title('Square Width and Thickness vs. Maximum Velocity')
 plt.xticks([0.05, .055, .06, .065, .07])
 plt.ylim([0.2, .3])
 ```
-
+![png](backupmaxvgraph.png)
 ## 5. Dynamics Simulation Code, below is the code used for the dynamics simulation: (Extracted to attached .py file)
 
 ### 1.2 Dynamics Figure:
