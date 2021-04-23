@@ -42,8 +42,8 @@ title: Foldable Robots Project
 
 * [Data](Data/Data.md)
 
-* [Video/Image Gallery](/Gallery.md)
+* [Video/Image Gallery](/Gallery/Gallery.md)
 
 * [CAD and Other Design Files](/CAD/CAD.md)
 
-* [Additional Code](/AddCode.md)
+* [Additional Code](/AddCode/AddCode.md)
