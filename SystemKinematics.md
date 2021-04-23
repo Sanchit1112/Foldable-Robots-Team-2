@@ -818,3 +818,5 @@ During rectilinear motion snakes have constant contact with the ground, so their
 
 1. H. Marvi, J. Bridges, and D. L. Hu, “Snakes Mimic Earthworms: propulsion using rectilinear travelling waves,” The Royal Society, vol. 10, no. 84, Jul. 2013. 
 
+Up-to-date as of 4/22/21
+
