@@ -25,10 +25,10 @@ Final .dxf files
 ## Paper Mock Up
 1.) Create a quick paper mockup of your final prototype design(You may use a prior prototype if it still applies, but you may destroy it.). Once you have arrived at your desired architecture, proceed to unfold the prototype in a way that makes sense from the perspective of optimizing material usage, staying within any boundary limitations (size of a piece of posterboard, size of the cutter you will be using).
 
-![Image%20from%20iOS%20%28109%29.jpg](attachment:Image%20from%20iOS%20%28109%29.jpg)
+![Image%20from%20iOS%20%28109%29.jpg](pic1.jpg)
 Folded prototype
 
-![flat.jpg](attachment:flat.jpg)
+![flat.jpg](pic2.jpg)
 Flatten prototype
 
 ## Solidworks Screen Shot
@@ -46,20 +46,20 @@ e.) Create a drawing from the assembly and use the solidworks export macro to ex
 
 f.) Use the solidworks support functionality in foldable robotics to convert to a dxf.
 
-![SW%20Flat%20Pattern.JPG](attachment:SW%20Flat%20Pattern.JPG)
+![SW%20Flat%20Pattern.JPG](pic3.jpg)
 
-![SW%20Flat%20Pattern%20w%20Holes.JPG](attachment:SW%20Flat%20Pattern%20w%20Holes.JPG)
+![SW%20Flat%20Pattern%20w%20Holes.JPG](pic4.jpg)
 Screenshot of the robot in flattened state 
 
-![SW%20Folded.JPG](attachment:SW%20Folded.JPG)
+![SW%20Folded.JPG](pic5.jpg)
 
-![SW%20Folded%20w%20Holes.JPG](attachment:SW%20Folded%20w%20Holes.JPG)
+![SW%20Folded%20w%20Holes.JPG](pic6.jpg)
 Solidworks screen shot of the paper mockup in folded state
 
-![SW%20Folded%20Drawing.JPG](attachment:SW%20Folded%20Drawing.JPG)
+![SW%20Folded%20Drawing.JPG](pic7.jpg)
 Solidworks drawing from assembly.
 
-![DXF%20file.JPG](attachment:DXF%20file.JPG)
+![DXF%20file.JPG](pic8.jpg)
 Drawing converted into a dxf file.
 
 ## Full Design Pipeline Code 
