@@ -40,7 +40,7 @@ title: Foldable Robots Project
 
 # Additional Pages: 
 
-* [Data](/Data.md)
+* [Data](Data/Data.md)
 
 * [Video/Image Gallery](/Gallery.md)
 
