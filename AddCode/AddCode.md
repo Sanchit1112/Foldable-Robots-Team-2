@@ -2,4 +2,4 @@
 
 [Robot Servo Control](/servo_motor.ino)
 
-## All other code is within the jupyter notebook that used that code in whichever section.
+## All other relevant code is within the corresponding sections that used that code
