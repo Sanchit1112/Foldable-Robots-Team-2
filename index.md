@@ -24,7 +24,7 @@ title: Foldable Robots Project
 
 * [System Dynamics](/SystemDynamics.md)
 
-* [System Optimization](/SystemOptimization.md)
+* [System Optimization](/Design_Optimization/SystemOptimization.md)
 
 * [Manufacturing Planning](/ManufacturingPlanning.md)
 
