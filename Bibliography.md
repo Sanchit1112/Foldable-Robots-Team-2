@@ -19,3 +19,5 @@ title: Bibliography
 1. D.Aukes, “Cantilever Beams,”egr557. Accessed: March. 19, 2021 [Online]. Available: https://egr557.github.io/modules/compliance/cantilever-beams.html 
 1. D.Aukes, “Euler-Bernoulli Beams,”egr557. Accessed: March. 19, 2021 [Online]. Available: https://egr557.github.io/modules/compliance/generated/euler-bernoulli-beams/euler-bernoulli-beams.html 
 1. “Servo Motor SG-90 Basics, Pinout, Wire Description, Datasheet,” Components101. [Online]. Available: https://components101.com/motors/servo-motor-basics-pinout-datasheet. [Accessed: 20-Mar-2021]. 
+
+Up-to-date as of 4/22/2021
