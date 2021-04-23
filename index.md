@@ -2,7 +2,7 @@
 title: Foldable Robots Project
 ---
 
-# Project Title: Snake like bio-inspired degradable Robot
+# Project Title: Snake-like Bio-inspired Degradable Robot
 
 **Team 2**
 
