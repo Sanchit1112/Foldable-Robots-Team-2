@@ -28,7 +28,7 @@ title: Foldable Robots Project
 
 * [Manufacturing Planning](DesignandManufacturingWorkflow-1/DesignandManufacturingWorkflow-1.md)
 
-* [Experimental Validation](DataCollectionandExperimentalValidationDataCollectionandExperimentalValidation.md)
+* [Experimental Validation](DataCollectionandExperimentalValidation/DataCollectionandExperimentalValidation.md)
 
 * [Presentation I](/presentation1.md)
 
