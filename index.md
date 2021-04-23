@@ -26,7 +26,7 @@ title: Foldable Robots Project
 
 * [System Optimization](/Design_Optimization/SystemOptimization.md)
 
-* [Manufacturing Planning](/ManufacturingPlanning.md)
+* [Manufacturing Planning](Design and Manufacturing Workflow-1/Design and Manufacturing Workflow-1.md)
 
 * [Experimental Validation](/ExperimentalValidation.md)
 
